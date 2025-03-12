@@ -8,4 +8,4 @@ Your first piece of content.
 > **When new content is pushed to this repo, the host will rebuild.**
 
 ## Have you connected this repo to your host instance?
-* follow the maintanence guide (where is it - idk yet - ask in Discord)
+* follow the maintanence guide ask in `#wiki-and-microsite-making`
