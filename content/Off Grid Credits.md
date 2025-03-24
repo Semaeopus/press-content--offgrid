@@ -4,7 +4,7 @@ PROBABLY NEED TO UPDATE THE LIST
 Design and Development, Semaeopus
 
 **Pontus Schönberg**  
-[Design and Development, Semaeopus](http://web.archive.org/web/20230602011421/http://pontusschonberg.net/)
+[Design and Development, Semaeopus](http://pontusschonberg.net/)
 
 **Fiipe Duarte Pina**  
 Project Manager and Producer
@@ -34,7 +34,7 @@ Art, Contractor
 Art and Visual Development, Contractor
 
 **Jonas Jensen**  
-[Sound Design, Contractor](http://web.archive.org/web/20230602011421/http://jajsound.com/)
+[Sound Design, Contractor](http://jajsound.com/)
 
 **Lyndon Holland**  
 Music, Contractor
