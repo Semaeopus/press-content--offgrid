@@ -1,16 +1,14 @@
-NEED TO CHECK LINKS
+![[book.svg]]
+**DevBlog** [offgridthegame.blogspot.com](http://offgridthegame.blogspot.com/).
 
-**DevBlog**  
-[offgridthegame.blogspot.com](http://offgridthegame.blogspot.com/).
+![[facebook.svg]]
+**Facebook** [facebook.com/offgridthegame](http://facebook.com/offgridthegame).
 
-**Facebook**  
-[facebook.com/offgridthegame](http://facebook.com/offgridthegame).
+![[twitter.svg]]
+**Twitter** [twitter.com/OffGridTheGame](http://twitter.com/OffGridTheGame).
 
-**Twitter**  
-[twitter.com/OffGridTheGame](http://twitter.com/OffGridTheGame).
+![[instagram.svg]]
+**Instagram** [instagram.com/offgridthegame](http://instagram.com/offgridthegame).
 
-**Instagram**  
-[instagram.com/offgridthegame](http://instagram.com/offgridthegame).
-
-**Reddit**  
-[reddit.com/r/offgridthegame](http://reddit.com/r/offgridthegame).
+![[reddit.svg]]
+**Reddit** [reddit.com/r/offgridthegame](http://reddit.com/r/offgridthegame).

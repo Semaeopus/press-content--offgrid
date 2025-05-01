@@ -1,1 +1,3 @@
-Semaeopus allows for the contents of Off Grid to be published through video broadcasting services for any commercial or non-commercial purposes. Monetization of videos created containing assets from Off Grid is legally & explicitly allowed by Semaeopus. This permission can be found in writing at [http://semaeopus.com/press/sheet.php?p=off_grid](http://semaeopus.com/press/sheet.php?p=off_grid).
+Semaeopus allows for the contents of Off Grid to be published through video broadcasting services for any commercial or non-commercial purposes. Monetization of videos created containing assets from Off Grid is legally & explicitly allowed by Semaeopus.
+
+~~This permission can be found in writing [here]~~
